@@ -1,0 +1,13 @@
+
+
+torch
+monai[nibabel,ignite,tqdm]
+torchmetrics
+numpy
+pandas
+matplotlib
+opencv-python
+scikit-learn
+Pillow
+tqdm
+kagglehub
