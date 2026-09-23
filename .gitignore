@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+brisc2025/
+pituitary_vs_normal/
+data/
+dataset/
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Generated results
+results/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Google Colab
+/content/
+
+# OS files
+.DS_Store
+Thumbs.db
